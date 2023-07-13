@@ -1,0 +1,66 @@
+class KfcTester{
+	public static void kfctest() {
+		double priceOfFood;
+		String food="Veg Zinger";
+		priceOfFood=Kfc.search(food);
+        System.out.println("The Price of "+food+" is "+priceOfFood);
+        food="Chicken Zinger";
+		priceOfFood=Kfc.search(food);
+        System.out.println("The Price of "+food+" is "+priceOfFood);
+        food="Krunchy Burger";
+		priceOfFood=Kfc.search(food);
+        System.out.println("The Price of "+food+" is "+priceOfFood);
+        food="Rice Bowl Veg";
+		priceOfFood=Kfc.search(food);
+        System.out.println("The Price of "+food+" is "+priceOfFood);
+        food="Rice Bowl NOn Veg";
+		priceOfFood=Kfc.search(food);
+        System.out.println("The Price of "+food+" is "+priceOfFood);
+        food="Hot Chicken";
+		priceOfFood=Kfc.search(food);
+        System.out.println("The Price of "+food+" is "+priceOfFood);
+        food="Crispy Chicken";
+		priceOfFood=Kfc.search(food);
+        System.out.println("The Price of "+food+" is "+priceOfFood);
+        food="Smoky Grilled Chicken";
+		priceOfFood=Kfc.search(food);
+        System.out.println("The Price of "+food+" is "+priceOfFood);
+        food="Bucket Chicken";
+		priceOfFood=Kfc.search(food);
+        System.out.println("The Price of "+food+" is "+priceOfFood);
+        food="Triple Treat";
+		priceOfFood=Kfc.search(food);
+        System.out.println("The Price of "+food+" is "+priceOfFood);
+        food="Burger Chicken";
+		priceOfFood=Kfc.search(food);
+        System.out.println("The Price of "+food+" is "+priceOfFood);
+        food="Veg Bruger Meal";
+		priceOfFood=Kfc.search(food);
+        System.out.println("The Price of "+food+" is "+priceOfFood);
+        food="Pepsi";
+		priceOfFood=Kfc.search(food);
+        System.out.println("The Price of "+food+" is "+priceOfFood);
+        food="Coke";
+		priceOfFood=Kfc.search(food);
+        System.out.println("The Price of "+food+" is "+priceOfFood);
+        food="Fried Chicken";
+		priceOfFood=Kfc.search(food);
+        System.out.println("The Price of "+food+" is "+priceOfFood);
+        food="Wings";
+		priceOfFood=Kfc.search(food);
+        System.out.println("The Price of "+food+" is "+priceOfFood);
+        food="Veg Paneer Wrap";
+		priceOfFood=Kfc.search(food);
+        System.out.println("The Price of "+food+" is "+priceOfFood);
+        food="Veg Spicy Wrap";
+		priceOfFood=Kfc.search(food);
+        System.out.println("The Price of "+food+" is "+priceOfFood);
+        food="Chicken Wrap";
+		priceOfFood=Kfc.search(food);
+        System.out.println("The Price of "+food+" is "+priceOfFood);
+        food="Spicy Chicken Wrap";
+		priceOfFood=Kfc.search(food);
+        System.out.println("The Price of "+food+" is "+priceOfFood);
+        
+	}
+}

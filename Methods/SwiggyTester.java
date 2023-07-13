@@ -1,0 +1,66 @@
+class SwiggyTester{
+	public static void swiggytest(){
+		double priceOfFood;
+		String food="Green Salad";
+		priceOfFood=Swiggy.search(food);
+        System.out.println("The Price of "+food+" is "+priceOfFood);
+        food="Papad Fry";
+		priceOfFood=Swiggy.search(food);
+        System.out.println("The Price of "+food+" is "+priceOfFood);
+        food="Paneer Pakoda";
+		priceOfFood=Swiggy.search(food);
+        System.out.println("The Price of "+food+" is "+priceOfFood);
+        food="Egg Pakoda";
+		priceOfFood=Swiggy.search(food);
+        System.out.println("The Price of "+food+" is "+priceOfFood);
+        food="Chicken Pakoda";
+		priceOfFood=Swiggy.search(food);
+        System.out.println("The Price of "+food+" is "+priceOfFood);
+        food="Veg Manchurian";
+		priceOfFood=Swiggy.search(food);
+        System.out.println("The Price of "+food+" is "+priceOfFood);
+        food="Egg Curry";
+		priceOfFood=Swiggy.search(food);
+        System.out.println("The Price of "+food+" is "+priceOfFood);
+        food="Egg Omlette";
+		priceOfFood=Swiggy.search(food);
+        System.out.println("The Price of "+food+" is "+priceOfFood);
+        food="Lemon Rice";
+		priceOfFood=Swiggy.search(food);
+        System.out.println("The Price of "+food+" is "+priceOfFood);
+        food="Veg Thali";
+		priceOfFood=Swiggy.search(food);
+        System.out.println("The Price of "+food+" is "+priceOfFood);
+        food="Dal Fry";
+		priceOfFood=Swiggy.search(food);
+        System.out.println("The Price of "+food+" is "+priceOfFood);
+        food="Dal Thadka";
+		priceOfFood=Swiggy.search(food);
+        System.out.println("The Price of "+food+" is "+priceOfFood);
+        food="Gobi Masala";
+		priceOfFood=Swiggy.search(food);
+        System.out.println("The Price of "+food+" is "+priceOfFood);
+        food="Veg Kofta";
+		priceOfFood=Swiggy.search(food);
+        System.out.println("The Price of "+food+" is "+priceOfFood);
+        food="Alu Dum";
+		priceOfFood=Swiggy.search(food);
+        System.out.println("The Price of "+food+" is "+priceOfFood);
+        food="Veg Hyderabadi";
+		priceOfFood=Swiggy.search(food);
+        System.out.println("The Price of "+food+" is "+priceOfFood);
+        food="Green Peas Masala";
+		priceOfFood=Swiggy.search(food);
+        System.out.println("The Price of "+food+" is "+priceOfFood);
+        food="Paneer Kofta";
+		priceOfFood=Swiggy.search(food);
+        System.out.println("The Price of "+food+" is "+priceOfFood);
+        food="Channa Masala";
+		priceOfFood=Swiggy.search(food);
+        System.out.println("The Price of "+food+" is "+priceOfFood);
+        food="Ice Cream Salad";
+		priceOfFood=Swiggy.search(food);
+        System.out.println("The Price of "+food+" is "+priceOfFood);
+        
+	}
+}
